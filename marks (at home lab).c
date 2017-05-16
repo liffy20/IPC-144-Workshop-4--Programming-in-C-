@@ -1,8 +1,7 @@
 
 /*
-Name : Daniel Lifchitz
-Student I.D : 107719163
-Week 4 Workshop
+
+Week 4 Workshop at home 
 marks.c
 */
 
