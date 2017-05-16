@@ -1,14 +1,5 @@
 // Workshop 4 - in lab component  //
 
-// By: Daniel Lifchitz //
-
-// St ID: 107719163 //
-
-// For: Gayan Gamage //
-
-// Submit Date: October 7, 2016 //
-
-// Section: SSS
 
 
 
